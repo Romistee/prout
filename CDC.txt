@@ -6,7 +6,7 @@ Quest No Hint / Pas narrative / No loop
 Pas d'évolution d'arme à la révelation online
 Sort safe or FriendlyFire
 Mechanic & Syner entre player & Pet
-Slot d'âme (améliore stat perso) + visuel âme 
+Slot d'âme (améliore stat perso) + visuel âme
 
 - Chara
 Exp > Bashing
@@ -15,6 +15,9 @@ Evolution Perso / Evolution Class
 - Bestiaire
 Table de loop par mob
 boss exp avec le temps
+Mob normaux drop 3 types Souillée 1% / Stable 0,6% / Pure 0,3% (stat ou sort passif/actif)
+MVP drop que des âmes Héroique ou Démoniaque 0,3%
+Une forge pourra invoqué un mob avec drop rate X2 (avec un stack 30 d'un item propre au monstre)
 
 - DonJon
 Donjon non instancié
