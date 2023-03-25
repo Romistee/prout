@@ -14,7 +14,7 @@
   "MenuBackgroundDisplayMode": "Default",
   "MenuBackgroundFrameInterval": 50,
   "IntroImages": [],
-  "UpdateUrl": "https://pegaxyland.com/update/",
+  "UpdateUrl": "https://pegaxyland.com/update",
   "MouseCursor": "",
   "MusicFadeTimer": 1500,
   "EnableContextMenus": true,
