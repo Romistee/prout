@@ -21,3 +21,6 @@ Donjon non instancié
 
 - Question
 possibilité slot item?
+
+
+-----------------------------------------------------------
