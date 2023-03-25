@@ -1,0 +1,56 @@
+﻿2023-03-25 11:32:52.180 [Warn] Directory was specified as a plugin directory but does not exist: 'resources\plugins'
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:52.211 [Info] Discovered 0 plugins:
+
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:52.465 [Warn] FileNotFoundException: Le fichier 'C:\Users\Romiste\Downloads\Intersect Engine 0.7.1.120-beta Full\Client and Editor\resources\client_strings.json' est introuvable.
+    Stack:    à System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   à System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   à System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   à System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   à System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   à Intersect.Client.Localization.Strings.Load()
+
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:52.632 [Warn] FileNotFoundException: Missing configuration file.
+    Stack:    à Intersect.Configuration.ConfigurationHelper.Load[T](T configuration, String filePath, Boolean failQuietly)
+   à Intersect.Configuration.ConfigurationHelper.LoadSafely[T](T configuration, String filePath)
+
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:53.453 [Info] Connecting to 127.0.0.1:5400...
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:57.960 [Info] System window closing (due to user interaction most likely).
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:57.965 [Info] Disconnected [00000000-0000-0000-0000-000000000000].
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:58.004 [Info] Acquiring context lock... (0ms)
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:58.004 [Info] Acquired. (0ms)
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:58.006 [Info] Beginning context dispose. (0ms)
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:58.007 [Info] GC.SuppressFinalize (0ms)
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:58.007 [Info] InternalDispose() completed. (0ms)
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:58.007 [Info] Clearing instance... (2ms)
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:58.007 [Info] Releasing context lock... (2ms)
+
+--------------------------------------------------------------------------------
+2023-03-25 11:32:58.007 [Info] Released. (2ms)
+
+--------------------------------------------------------------------------------
