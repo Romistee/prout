@@ -22,5 +22,16 @@ Donjon non instancié
 - Question
 possibilité slot item?
 
+#########################################################
 
------------------------------------------------------------
+Plan d'action :
+
+Romiste :
+Reset Man / Reset Level / Reset Stat
+Slot d'âme / Equipement et une âme sur le premier mob
+
+Chinese :
+Customise mob / Nom / Sprite
+Animation => Attack / Idle / Etc..
+
+Both : 
