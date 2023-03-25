@@ -1,10 +1,19 @@
 {
   "Files": [
     {
-      "Path": "resources/client_strings.json",
-      "Hash": "402ecb9f836118994cb51af1d19063fe",
-      "Size": 32747,
-      "EditorIgnore": true
+      "Path": "config.json",
+      "Hash": "45fd77e03d8373af7f08866ace260007",
+      "Size": 1152
+    },
+    {
+      "Path": "Intersect Client.exe",
+      "Hash": "e9cf93c14c6ce4edf828ebd8d8ec34e2",
+      "Size": 17903616
+    },
+    {
+      "Path": "resources/config.json",
+      "Hash": "45fd77e03d8373af7f08866ace260007",
+      "Size": 1152
     },
     {
       "Path": "resources/credits.json",
@@ -1727,6 +1736,11 @@
       "Size": 71499
     },
     {
+      "Path": "resources/gui/layouts/game/AnnouncementWindow.json",
+      "Hash": "35de77fac0900ec10f9a0899b8b4a64f",
+      "Size": 1614
+    },
+    {
       "Path": "resources/gui/layouts/game/BagContextMenu.json",
       "Hash": "bc8230ce91d8d4d194af5a5b836deb2d",
       "Size": 8667
@@ -1750,6 +1764,16 @@
       "Path": "resources/gui/layouts/game/BankItem.json",
       "Hash": "c9b069406629a6820da91ef4a4a0017b",
       "Size": 2393
+    },
+    {
+      "Path": "resources/gui/layouts/game/BankWindow.json",
+      "Hash": "09e929527f3995bdf7997ed222ec5d8d",
+      "Size": 14738
+    },
+    {
+      "Path": "resources/gui/layouts/game/CharacterWindow.json",
+      "Hash": "af5cb2f5a25cf27b4282c00929a483ad",
+      "Size": 40163
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
@@ -1812,6 +1836,11 @@
       "Size": 1118
     },
     {
+      "Path": "resources/gui/layouts/game/EscapeMenu.json",
+      "Hash": "2b05375cb6d984ff5e365c5675d4ce6e",
+      "Size": 8287
+    },
+    {
       "Path": "resources/gui/layouts/game/EventDialogWindow_1Response.json",
       "Hash": "95d2d1642bdd8d5fa7d085776a373be1",
       "Size": 25065
@@ -1837,9 +1866,29 @@
       "Size": 6368
     },
     {
+      "Path": "resources/gui/layouts/game/FriendsWindow.json",
+      "Hash": "b0705358e75d6f0c5b03cf78d5cf37fd",
+      "Size": 16988
+    },
+    {
       "Path": "resources/gui/layouts/game/GuildContextMenu.json",
       "Hash": "33713142b86647bff060d1ed9caf6133",
       "Size": 8667
+    },
+    {
+      "Path": "resources/gui/layouts/game/GuildWindow.json",
+      "Hash": "82243fa23e268251cab42892812ec06b",
+      "Size": 21275
+    },
+    {
+      "Path": "resources/gui/layouts/game/HotbarWindow.json",
+      "Hash": "a62fc630d3520d34ee9fbdec2cf16ee7",
+      "Size": 59344
+    },
+    {
+      "Path": "resources/gui/layouts/game/InputBox.json",
+      "Hash": "86babcf31a1d80505908053f00330ad4",
+      "Size": 15213
     },
     {
       "Path": "resources/gui/layouts/game/InventoryContextMenu.json",
@@ -1852,14 +1901,49 @@
       "Size": 5459
     },
     {
+      "Path": "resources/gui/layouts/game/InventoryWindow.json",
+      "Hash": "f83bbe3d26fb11c5ec50276510cdb1dd",
+      "Size": 14733
+    },
+    {
       "Path": "resources/gui/layouts/game/MapItemIcon.json",
       "Hash": "ace29a877597c03c4c396ebf5b428fb9",
       "Size": 2396
     },
     {
+      "Path": "resources/gui/layouts/game/MapItemWindow.json",
+      "Hash": "d6492eaeb76af8df6bffb6e052cfb9b7",
+      "Size": 13019
+    },
+    {
+      "Path": "resources/gui/layouts/game/MenuContainer.json",
+      "Hash": "aa09e01fd1208a724d6ca04329df9145",
+      "Size": 17892
+    },
+    {
+      "Path": "resources/gui/layouts/game/PartyWindow.json",
+      "Hash": "d3b7b4c1f57265a9a10cda9039935fe4",
+      "Size": 44795
+    },
+    {
+      "Path": "resources/gui/layouts/game/PlayerBox.json",
+      "Hash": "6114341e4f832a335095bffc395192f5",
+      "Size": 25566
+    },
+    {
       "Path": "resources/gui/layouts/game/PlayerStatusIcon.json",
       "Hash": "cc9ddec2c2a09e2fcd69cf649c7437d9",
       "Size": 2325
+    },
+    {
+      "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
+      "Hash": "338ce9b1e6780a0a3fbc9b1d8ad31e8c",
+      "Size": 19745
+    },
+    {
+      "Path": "resources/gui/layouts/game/QuestsWindow.json",
+      "Hash": "a5731a6860fc0499aa9bec5e865d946c",
+      "Size": 31598
     },
     {
       "Path": "resources/gui/layouts/game/ShopContextMenu.json",
@@ -1887,9 +1971,19 @@
       "Size": 8667
     },
     {
+      "Path": "resources/gui/layouts/game/SpellsWindow.json",
+      "Hash": "ff627db99bdbea26d88996fe7cf64ebf",
+      "Size": 14715
+    },
+    {
       "Path": "resources/gui/layouts/game/TargetBox.json",
       "Hash": "722dec71bede22abaf151a9168d6d13f",
       "Size": 25815
+    },
+    {
+      "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
+      "Hash": "cc9ddec2c2a09e2fcd69cf649c7437d9",
+      "Size": 2325
     },
     {
       "Path": "resources/gui/layouts/game/TheirTradeItem.json",
@@ -1930,6 +2024,11 @@
       "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
       "Hash": "f50a6dd5a86838eaf8f2aadb0eb4b6d9",
       "Size": 8194
+    },
+    {
+      "Path": "resources/gui/layouts/menu/InputBox.json",
+      "Hash": "473a84113d1a89157d7f30abbcdaf41e",
+      "Size": 15212
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
@@ -7147,109 +7246,22 @@
       "Size": 23798
     },
     {
-      "Path": "config.json",
-      "Hash": "45fd77e03d8373af7f08866ace260007",
-      "Size": 1152
+      "Path": "resources/editor_strings.json",
+      "Hash": "9f5fde5e9445588764c4c47931cfdbe3",
+      "Size": 85552,
+      "ClientIgnore": true
     },
     {
-      "Path": "resources/gui/layouts/game/EscapeMenu.json",
-      "Hash": "2b05375cb6d984ff5e365c5675d4ce6e",
-      "Size": 8287
+      "Path": "Intersect Editor.exe",
+      "Hash": "d9b54ba68d15bdcdb88ca4a0a54018d1",
+      "Size": 10877440,
+      "ClientIgnore": true
     },
     {
-      "Path": "resources/gui/layouts/game/InventoryWindow.json",
-      "Hash": "f83bbe3d26fb11c5ec50276510cdb1dd",
-      "Size": 14733
-    },
-    {
-      "Path": "resources/gui/layouts/game/QuestsWindow.json",
-      "Hash": "a5731a6860fc0499aa9bec5e865d946c",
-      "Size": 31598
-    },
-    {
-      "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
-      "Hash": "338ce9b1e6780a0a3fbc9b1d8ad31e8c",
-      "Size": 19745
-    },
-    {
-      "Path": "resources/gui/layouts/game/AnnouncementWindow.json",
-      "Hash": "35de77fac0900ec10f9a0899b8b4a64f",
-      "Size": 1614
-    },
-    {
-      "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "86babcf31a1d80505908053f00330ad4",
-      "Size": 15213
-    },
-    {
-      "Path": "resources/gui/layouts/game/PartyWindow.json",
-      "Hash": "d3b7b4c1f57265a9a10cda9039935fe4",
-      "Size": 44795
-    },
-    {
-      "Path": "resources/gui/layouts/game/SpellsWindow.json",
-      "Hash": "ff627db99bdbea26d88996fe7cf64ebf",
-      "Size": 14715
-    },
-    {
-      "Path": "resources/config.json",
-      "Hash": "45fd77e03d8373af7f08866ace260007",
-      "Size": 1152
-    },
-    {
-      "Path": "resources/gui/layouts/game/FriendsWindow.json",
-      "Hash": "b0705358e75d6f0c5b03cf78d5cf37fd",
-      "Size": 16988
-    },
-    {
-      "Path": "resources/gui/layouts/game/GuildWindow.json",
-      "Hash": "82243fa23e268251cab42892812ec06b",
-      "Size": 21275
-    },
-    {
-      "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
-      "Hash": "cc9ddec2c2a09e2fcd69cf649c7437d9",
-      "Size": 2325
-    },
-    {
-      "Path": "resources/gui/layouts/game/MapItemWindow.json",
-      "Hash": "d6492eaeb76af8df6bffb6e052cfb9b7",
-      "Size": 13019
-    },
-    {
-      "Path": "resources/gui/layouts/game/MenuContainer.json",
-      "Hash": "aa09e01fd1208a724d6ca04329df9145",
-      "Size": 17892
-    },
-    {
-      "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "6114341e4f832a335095bffc395192f5",
-      "Size": 25566
-    },
-    {
-      "Path": "Intersect Client.exe",
-      "Hash": "e9cf93c14c6ce4edf828ebd8d8ec34e2",
-      "Size": 17903616
-    },
-    {
-      "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Hash": "af5cb2f5a25cf27b4282c00929a483ad",
-      "Size": 40163
-    },
-    {
-      "Path": "resources/gui/layouts/game/HotbarWindow.json",
-      "Hash": "a62fc630d3520d34ee9fbdec2cf16ee7",
-      "Size": 59344
-    },
-    {
-      "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "473a84113d1a89157d7f30abbcdaf41e",
-      "Size": 15212
-    },
-    {
-      "Path": "resources/gui/layouts/game/BankWindow.json",
-      "Hash": "09e929527f3995bdf7997ed222ec5d8d",
-      "Size": 14738
+      "Path": "Intersect Editor.pdb",
+      "Hash": "fb90234bbdded3f1e968d5f05e0e2ff4",
+      "Size": 349128,
+      "ClientIgnore": true
     }
   ],
   "TrustCache": true
