@@ -1,0 +1,23 @@
+- Global
+Open World
+Quest No Hint / Pas narrative / No loop
+
+- Mecha / craft
+Pas d'évolution d'arme à la révelation online
+Sort safe or FriendlyFire
+Mechanic & Syner entre player & Pet
+Slot d'âme (améliore stat perso) + visuel âme 
+
+- Chara
+Exp > Bashing
+Evolution Perso / Evolution Class
+
+- Bestiaire
+Table de loop par mob
+boss exp avec le temps
+
+- DonJon
+Donjon non instancié
+
+- Question
+possibilité slot item?

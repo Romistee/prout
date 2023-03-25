@@ -1,1 +1,3 @@
 /resources/mapcache.db
+/resources/gui/layouts/*
+/logs/*
